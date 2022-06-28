@@ -12,7 +12,7 @@
     background-color: #dde1e2; 
     width: 100%;
     
-    overscroll-behavior-y: contain;
+    overscroll-behavior-y: none;
    -webkit-user-select: none;
    -webkit-tap-highlight-color: transparent;
    -webkit-touch-callout: none;
